@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="{{ '/files/Zhao_Wang_CV.pdf' | relative_url }}" class="btn btn--primary" target="_blank" rel="noopener">
+<a href="https://zhao-wang-biophysics.github.io/Zhao_Wang_CV.pdf" class="btn btn--primary" target="_blank" rel="noopener">
   <i class="fas fa-file-pdf" aria-hidden="true"></i> View / Download CV (PDF)
 </a>
 
@@ -15,20 +15,21 @@ redirect_from:
 
 ## Academic Appointments
 
-**Postdoctoral Research Associate**
+**Postdoctoral Research Associate | 2026–Present**
 
-Department of Applied Mathematics and Theoretical Physics (DAMTP),  
 University of Cambridge, United Kingdom
 
 Advisor: Professor Raymond E. Goldstein FRS
 
+**Postdoctoral Fellow | 2025–2026**
+
+The University of Hong Kong, Hong Kong
+
 ## Education
 
-**Ph.D., 2025**
-
-The University of Hong Kong, Hong Kong SAR, China
-
-Advisor: Professor Alan C. H. Tsang
+- **Ph.D. in Mechanical Engineering**, The University of Hong Kong, 2025
+- **M.Eng.**, Harbin Institute of Technology, 2021
+- **B.Eng.**, Harbin Institute of Technology, 2018
 
 ## Research Interests
 
@@ -40,6 +41,4 @@ Advisor: Professor Alan C. H. Tsang
 
 ## Publications
 
-Please see my [Publications](/publications/) page or 
-[Google Scholar](https://scholar.google.com/citations?user=9uGyc94AAAAJ&hl=en) 
-for my publication record.
+Please see my [Publications](https://zhao-wang-biophysics.github.io/publications/) page for my publication record.
