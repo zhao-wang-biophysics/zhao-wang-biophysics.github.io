@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 My research explores how living systems sense physical cues, generate motion, interact, and develop. I combine controlled experiments, high-speed imaging, quantitative analysis, and physical modelling, using green algae as model organisms to investigate these questions across multiple scales.
-1. Microbial sensing and navigation
+
+## 1. Microbial sensing and navigation 
 {: #sensing}
 
 How do swimming microorganisms respond to physical signals and adapt their behaviour? I investigate how light and mechanical cues influence flagellar dynamics, swimming trajectories, and adaptive navigation.
+
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:1rem;align-items:start;margin:1rem 0;">
   <figure style="display:block;margin:0;">
     <div style="width:100%;aspect-ratio:4 / 3;background:#111;overflow:hidden;">
@@ -27,7 +29,10 @@ How do swimming microorganisms respond to physical signals and adapt their behav
     </div>
     <figcaption>Breaststroke-like flagellar beating during swimming.</figcaption>
   </figure>
-</div>From experiments to physical models
+</div>
+
+### From experiments to physical models
+
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:1rem;align-items:start;margin:1rem 0;">
   <figure style="display:block;margin:0;">
     <div style="width:100%;aspect-ratio:4 / 3;background:#111;overflow:hidden;">
@@ -45,11 +50,15 @@ How do swimming microorganisms respond to physical signals and adapt their behav
     </div>
     <figcaption>Model: simulated swimming trajectories and flagellar dynamics.</figcaption>
   </figure>
-</div>Related publication: Light-dependent switching of circling handedness in microswimmer navigation. Physical Review Letters 136, 078301 (2026).
-2. Collective dynamics and active matter
+</div>
+
+**Related publication:** [Light-dependent switching of circling handedness in microswimmer navigation](https://doi.org/10.1103/6cdq-1nvv). *Physical Review Letters* **136**, 078301 (2026).
+
+## 2. Collective dynamics and active matter 
 {: #collective}
 
 How does the behaviour of individual swimmers give rise to collective motion and spatial organisation? I am interested in the physical mechanisms linking individual motility, environmental responses, and emergent patterns in swimming microorganisms.
+
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:1rem;align-items:start;margin:1rem 0;">
   <figure style="display:block;margin:0;">
     <div style="width:100%;aspect-ratio:4 / 3;background:#111;overflow:hidden;">
@@ -68,11 +77,14 @@ How does the behaviour of individual swimmers give rise to collective motion and
     <figcaption>Light-driven redistribution of a population of <i>Chlamydomonas</i>.</figcaption>
   </figure>
 </div>
-Related publication: Intermediate light adaptation induces oscillatory phototaxis switching and pattern formation in Chlamydomonas. Proceedings of the National Academy of Sciences 122, e2425369122 (2025).
-3. Mechanics of multicellular morphogenesis
+
+**Related publication:** [Intermediate light adaptation induces oscillatory phototaxis switching and pattern formation in *Chlamydomonas*](https://doi.org/10.1073/pnas.2425369122). *Proceedings of the National Academy of Sciences* **122**, e2425369122 (2025).
+
+## 3. Mechanics of multicellular morphogenesis 
 {: #morphogenesis}
 
 How do growth, geometry, and mechanical interactions shape multicellular organisms? My current research uses simple multicellular algae to explore the physical principles of shape formation and developmental dynamics.
+
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:1rem;align-items:start;margin:1rem 0;">
   <figure style="display:block;margin:0;">
     <div style="width:100%;aspect-ratio:4 / 3;background:#111;overflow:hidden;">
@@ -91,4 +103,5 @@ How do growth, geometry, and mechanical interactions shape multicellular organis
     <figcaption>Reorientation of daughter colonies during development in <i>Gonium pectorale</i>.</figcaption>
   </figure>
 </div>
-Related publication: Saddle Buckling of a Multicellular Alga Driven by Differential Growth. Preprint (2026).
+
+**Related publication:** Saddle Buckling of a Multicellular Alga Driven by Differential Growth. *Preprint* (2026).
