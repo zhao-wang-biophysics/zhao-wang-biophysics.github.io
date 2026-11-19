@@ -1,64 +1,46 @@
+
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<a href="{{ '/files/Zhao_Wang_CV.pdf' | relative_url }}" class="btn btn--primary" target="_blank" rel="noopener">
+  <i class="fas fa-file-pdf" aria-hidden="true"></i> View / Download CV (PDF)
+</a>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+*Last updated: November 2026*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Academic Appointments
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Postdoctoral Research Associate**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Department of Applied Mathematics and Theoretical Physics (DAMTP),  
+University of Cambridge, United Kingdom
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Advisor: Professor Raymond E. Goldstein FRS
+
+## Education
+
+**Ph.D., 2025**
+
+The University of Hong Kong, Hong Kong SAR, China
+
+Advisor: Professor Alan C. H. Tsang
+
+## Research Interests
+
+- Biological physics and active matter
+- Microswimmer navigation and phototaxis
+- Flagellar mechanosensing
+- Collective dynamics
+- Mechanics of multicellular morphogenesis
+
+## Publications
+
+Please see my [Publications](/publications/) page or 
+[Google Scholar](https://scholar.google.com/citations?user=9uGyc94AAAAJ&hl=en) 
+for my publication record.
