@@ -8,6 +8,35 @@ author_profile: true
   Selected publications
 </h2>
 
+
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2.5em;">
+
+  <div style="flex: 1; min-width: 0;">
+    <h3 style="margin-top: 0;">
+      Saddle Buckling of a Multicellular Alga Driven by Differential Growth
+    </h3>
+
+    <p>
+      <strong>Z. Wang</strong>, S. K. Birwa, J. Y. Y. Chui, K. C. Leptos, and R. E. Goldstein<br>
+      <em>Preprint</em> (2026)
+    </p>
+
+    <p>
+      This work reveals how differential cell growth drives a saddle-shaped morphological transformation in a simple multicellular alga.
+    </p>
+  </div>
+
+  <div style="width: 300px; flex-shrink: 0;">
+    <img src="{{ '/images/research/gonium_2026.jpg' | relative_url }}"
+         alt="Growth-driven saddle buckling in Gonium"
+         style="width: 100%; height: auto;">
+  </div>
+
+</div>
+
+<hr style="margin: 2em 0;">
+
+
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2.5em;">
 
   <div style="flex: 1; min-width: 0;">
