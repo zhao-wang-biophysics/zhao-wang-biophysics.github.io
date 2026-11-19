@@ -15,16 +15,22 @@ redirect_from:
 
 ## Academic Appointments
 
-**Postdoctoral Research Associate | 2026–Present**
+**Postdoctoral Research Associate** (Jan 2026 – Present)
 
-University of Cambridge, United Kingdom
+Department of Applied Mathematics and Theoretical Physics,
+University of Cambridge, UK
 
 Advisor: Professor Raymond E. Goldstein FRS
 
-**Postdoctoral Fellow | 2025–2026**
+**Postdoctoral Fellow** (Sep 2025 – Jan 2026)
 
 The University of Hong Kong, Hong Kong
 
+Advisor: Professor Alan C. H. Tsang
+
+**Short-term Academic Visitor** (Jul 2023)
+
+LadHyX, École Polytechnique, France
 ## Education
 
 - **Ph.D. in Mechanical Engineering**, The University of Hong Kong, 2025
