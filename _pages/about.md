@@ -15,6 +15,32 @@ More recently, my research has expanded toward morphogenesis and growth-induced 
 
 If you are interested in my research or have any questions, please feel free to get in touch. 
 
+## Research highlights
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,195px),1fr));gap:1.1rem;align-items:start;margin:1rem 0 1.5rem;">
+  <div>
+    <video controls muted loop playsinline preload="none" poster="{{ '/images/research/chlamy_swimming.jpg' | relative_url }}" style="display:block;width:100%;aspect-ratio:4/3;object-fit:contain;background:#ddd;">
+      <source src="{{ '/files/research/chlamy_swimming.mp4' | relative_url }}" type="video/mp4">
+    </video>
+    <p style="margin:0.65rem 0 0.25rem;"><strong><a href="{{ '/research/#sensing' | relative_url }}">Microbial sensing and navigation</a></strong></p>
+    <p style="font-size:0.85em;margin:0;">How microorganisms sense physical cues and adapt their motion.</p>
+  </div>
+  <div>
+    <video controls muted loop playsinline preload="none" poster="{{ '/images/research/volvox_collective.jpg' | relative_url }}" style="display:block;width:100%;aspect-ratio:4/3;object-fit:contain;background:#ddd;">
+      <source src="{{ '/files/research/volvox_collective.mp4' | relative_url }}" type="video/mp4">
+    </video>
+    <p style="margin:0.65rem 0 0.25rem;"><strong><a href="{{ '/research/#collective' | relative_url }}">Collective dynamics and active matter</a></strong></p>
+    <p style="font-size:0.85em;margin:0;">How individual behaviours give rise to collective motion and organisation.</p>
+  </div>
+  <div>
+    <video controls muted loop playsinline preload="none" poster="{{ '/images/research/gonium_morphogenesis.jpg' | relative_url }}" style="display:block;width:100%;aspect-ratio:4/3;object-fit:contain;background:#ddd;">
+      <source src="{{ '/files/research/gonium_morphogenesis.mp4' | relative_url }}" type="video/mp4">
+    </video>
+    <p style="margin:0.65rem 0 0.25rem;"><strong><a href="{{ '/research/#morphogenesis' | relative_url }}">Mechanics of multicellular morphogenesis</a></strong></p>
+    <p style="font-size:0.85em;margin:0;">How growth, geometry, and mechanics shape multicellular organisms.</p>
+  </div>
+</div>
+
 
 Research interests
 ------
