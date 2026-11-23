@@ -16,14 +16,22 @@ author_profile: true
       Saddle Buckling of a Multicellular Alga Driven by Differential Growth
     </h3>
 
-    <p>
-      <strong>Z. Wang</strong>, S. K. Birwa, J. Y. Y. Chui, K. C. Leptos, and R. E. Goldstein<br>
-      <em>Preprint</em> (2026)
-    </p>
+
+<p>
+  <strong>Z. Wang</strong>, S. K. Birwa, J. Y. Y. Chui, K. C. Leptos, and R. E. Goldstein<br>
+  <em>arXiv preprint</em>, arXiv:2611.27563 (2026)
+</p>
+
 
     <p>
       This work reveals how differential cell growth drives a saddle-shaped morphological transformation in a simple multicellular alga.
     </p>
+
+<p>
+  <a href="https://arxiv.org/abs/2611.27563" target="_blank" rel="noopener">arXiv</a> /
+  <a href="https://arxiv.org/pdf/2611.27563" target="_blank" rel="noopener">PDF</a>
+</p>
+
   </div>
 
   <div style="width: 300px; flex-shrink: 0;">
