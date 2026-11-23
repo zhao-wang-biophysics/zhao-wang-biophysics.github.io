@@ -104,4 +104,4 @@ How do growth, geometry, and mechanical interactions shape multicellular organis
   </figure>
 </div>
 
-**Related publication:** Saddle Buckling of a Multicellular Alga Driven by Differential Growth. *Preprint* (2026).
+**Related publication:** [Saddle Buckling of a Multicellular Alga Driven by Differential Growth](https://arxiv.org/abs/2611.27563). *arXiv:2611.27563* (2026).
